@@ -1,0 +1,1099 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="51a2036a-9ff2-47af-ad7e-c98efe176838" name="Default Changelist" comment="백준 1,2주차">
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/BaekJoon/META-INF/BaekJoon.kotlin_module" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/BaekJoon/Problem_1002.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/BaekJoon/Problem_10026.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/BaekJoon/Problem_1003.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/BaekJoon/Problem_1012.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/BaekJoon/Problem_1015.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/BaekJoon/Problem_10158.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/BaekJoon/Problem_1037.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/BaekJoon/Problem_1059.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/BaekJoon/Problem_1063.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/BaekJoon/Problem_1064.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/BaekJoon/Problem_1094.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/BaekJoon/Problem_11048.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/BaekJoon/Problem_1120.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/BaekJoon/Problem_1145.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/BaekJoon/Problem_1158.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/BaekJoon/Problem_1181$1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/BaekJoon/Problem_1181.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/BaekJoon/Problem_1183$1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/BaekJoon/Problem_1183$Problem_1991$Node.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/BaekJoon/Problem_1183$Problem_1991$Tree.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/BaekJoon/Problem_1183$Problem_1991.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/BaekJoon/Problem_1183.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/BaekJoon/Problem_1197.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/BaekJoon/Problem_1235.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/BaekJoon/Problem_1244.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/BaekJoon/Problem_1246.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/BaekJoon/Problem_1251.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/BaekJoon/Problem_1260.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/BaekJoon/Problem_12865.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/BaekJoon/Problem_1292.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/BaekJoon/Problem_1302.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/BaekJoon/Problem_1337.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/BaekJoon/Problem_1343.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/BaekJoon/Problem_1347.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/BaekJoon/Problem_1436.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/BaekJoon/Problem_14501.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/BaekJoon/Problem_14719.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/BaekJoon/Problem_1487.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/BaekJoon/Problem_14891.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/BaekJoon/Problem_1501.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/BaekJoon/Problem_1543.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/BaekJoon/Problem_15658.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/BaekJoon/Problem_15683$1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/BaekJoon/Problem_15683$cctv.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/BaekJoon/Problem_15683.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/BaekJoon/Problem_15686$1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/BaekJoon/Problem_15686$Point.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/BaekJoon/Problem_15686.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/BaekJoon/Problem_1654.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/BaekJoon/Problem_17135$1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/BaekJoon/Problem_17135$Point.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/BaekJoon/Problem_17135.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/BaekJoon/Problem_1759.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/BaekJoon/Problem_1967$1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/BaekJoon/Problem_1967$Node.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/BaekJoon/Problem_1967.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/BaekJoon/Problem_2116.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/BaekJoon/Problem_2178$1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/BaekJoon/Problem_2178$Point.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/BaekJoon/Problem_2178.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/BaekJoon/Problem_2304$1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/BaekJoon/Problem_2304$Point.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/BaekJoon/Problem_2304.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/BaekJoon/Problem_2559.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/BaekJoon/Problem_2636$1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/BaekJoon/Problem_2636$Point.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/BaekJoon/Problem_2636.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/BaekJoon/Problem_2667.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/BaekJoon/Problem_2805.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/BaekJoon/Problem_7576$1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/BaekJoon/Problem_7576$Point.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/BaekJoon/Problem_7576.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/BaekJoon/Problem_9095.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/BaekJoon/Problem_9251.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/BaekJoon/week10/Problem_1012$Point.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/BaekJoon/week10/Problem_1012.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/BaekJoon/week10/Problem_10971.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/BaekJoon/week10/Problem_1107.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/BaekJoon/week10/Problem_1389$friend.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/BaekJoon/week10/Problem_1389.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/BaekJoon/week10/Problem_1463$toOne.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/BaekJoon/week10/Problem_1463.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/BaekJoon/week10/Problem_1789.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/BaekJoon/week10/Problem_1937.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/BaekJoon/week10/Problem_1939$Edge.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/BaekJoon/week10/Problem_1939.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/BaekJoon/week10/Problem_2110.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/BaekJoon/week10/Problem_2805.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/BaekJoon/week11/Problem_17297.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/BaekJoon/week11/Problem_1780.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/BaekJoon/week11/Problem_2225.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/BaekJoon/week4/Problem_1107.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/BaekJoon/week4/Problem_1149.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/BaekJoon/week4/Problem_13549$1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/BaekJoon/week4/Problem_13549$location.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/BaekJoon/week4/Problem_13549.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/BaekJoon/week4/Problem_14502$1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/BaekJoon/week4/Problem_14502$Point.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/BaekJoon/week4/Problem_14502.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/BaekJoon/week4/Problem_16236$1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/BaekJoon/week4/Problem_16236$Point.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/BaekJoon/week4/Problem_16236$shark.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/BaekJoon/week4/Problem_16236.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/BaekJoon/week4/Problem_17143.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/BaekJoon/week4/Problem_18353.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/BaekJoon/week4/Problem_18513.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/BaekJoon/week4/Problem_1991$1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/BaekJoon/week4/Problem_1991$Node.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/BaekJoon/week4/Problem_1991$Tree.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/BaekJoon/week4/Problem_1991.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/BaekJoon/week4/Problem_2606.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/BaekJoon/week4/Problem_2638$1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/BaekJoon/week4/Problem_2638$Point.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/BaekJoon/week4/Problem_2638.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/BaekJoon/week4/Problem_3055$1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/BaekJoon/week4/Problem_3055$Point.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/BaekJoon/week4/Problem_3055.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/BaekJoon/week5/Problem_1074.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/BaekJoon/week5/Problem_11054.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/BaekJoon/week5/Problem_14226$1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/BaekJoon/week5/Problem_14226$emoticon.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/BaekJoon/week5/Problem_14226.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/BaekJoon/week5/Problem_2206$1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/BaekJoon/week5/Problem_2206$Point.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/BaekJoon/week5/Problem_2206.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/BaekJoon/week5/Problem_2293.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/BaekJoon/week5/Problem_3190$1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/BaekJoon/week5/Problem_3190$Point.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/BaekJoon/week5/Problem_3190$Snake.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/BaekJoon/week5/Problem_3190.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/BaekJoon/week5/Problem_9020.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/BaekJoon/week6/Problem_11403.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/BaekJoon/week6/Problem_11725.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/BaekJoon/week6/Problem_14503$1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/BaekJoon/week6/Problem_14503$Cleaner.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/BaekJoon/week6/Problem_14503.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/BaekJoon/week6/Problem_1918.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/BaekJoon/week6/Problem_2263.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/BaekJoon/week6/Problem_9465.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/BaekJoon/week7/Problem_1339.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/BaekJoon/week7/Problem_14500.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/BaekJoon/week7/Problem_1744.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/BaekJoon/week7/Problem_18353.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/BaekJoon/week7/Problem_1931.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/BaekJoon/week7/Problem_2503.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/BaekJoon/week8/Problem_11404.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/BaekJoon/week8/Problem_1238$1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/BaekJoon/week8/Problem_1238$Edge.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/BaekJoon/week8/Problem_1238.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/BaekJoon/week8/Problem_1753$edge.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/BaekJoon/week8/Problem_1753.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/BaekJoon/week8/Problem_1865.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/BaekJoon/week8/Problem_2468$1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/BaekJoon/week8/Problem_2468$Point.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/BaekJoon/week8/Problem_2468.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/BaekJoon/week8/Problem_7569$1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/BaekJoon/week8/Problem_7569$Point.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/BaekJoon/week8/Problem_7569.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/BaekJoon/week9/Problem_1010.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/BaekJoon/week9/Problem_10971.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/BaekJoon/week9/Problem_11066.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/BaekJoon/week9/Problem_1774$Edge.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/BaekJoon/week9/Problem_1774$Point.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/BaekJoon/week9/Problem_1774.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/BaekJoon/week9/Problem_1922$1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/BaekJoon/week9/Problem_1922$Edge.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/BaekJoon/week9/Problem_1922.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/BaekJoon/week9/Problem_4386$Edge.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/BaekJoon/week9/Problem_4386$Point.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/BaekJoon/week9/Problem_4386.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/BaekJoon_Sliver/Problem_1002.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/BaekJoon_Sliver/Problem_1015.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/BaekJoon_Sliver/Problem_1037.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/BaekJoon_Sliver/Problem_1059.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/BaekJoon_Sliver/Problem_1063.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/BaekJoon_Sliver/Problem_1064.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/BaekJoon_Sliver/Problem_1094.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/BaekJoon_Sliver/Problem_1145.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/BaekJoon_Sliver/Problem_1158.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/BaekJoon_Sliver/Problem_1181$1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/BaekJoon_Sliver/Problem_1181.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/BaekJoon_Sliver/Problem_1183.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/BaekJoon_Sliver/Problem_1246.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/BaekJoon_Sliver/Problem_1251.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/BaekJoon_Sliver/Problem_14719.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/BaekJoon_Sliver/Problem_2304$1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/BaekJoon_Sliver/Problem_2304$Point.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/BaekJoon_Sliver/Problem_2304.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/BaekJoon_Sliver/Problem_9095.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Problem_1002.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Problem_10026.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Problem_1003.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Problem_1012.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Problem_1015.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Problem_10158.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Problem_11048.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Problem_1120.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Problem_1197.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Problem_1235.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Problem_1244.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Problem_1260.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Problem_12865.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Problem_1292.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Problem_1302.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Problem_1337.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Problem_1343.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Problem_1347.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Problem_1436.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Problem_14501.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Problem_14719.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Problem_1487.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Problem_14891.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Problem_1501.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Problem_1543.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Problem_15658.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Problem_15683.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Problem_15686.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Problem_1654.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Problem_1759.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Problem_1967.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Problem_2116.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Problem_2178.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Problem_2304.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Problem_2559.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Problem_2636.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Problem_2667.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Problem_2805.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Problem_7576.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Problem_9095.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Problem_9251.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/week10/Problem_1012.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/week10/Problem_10971.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/week10/Problem_1107.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/week10/Problem_1389.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/week10/Problem_1463.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/week10/Problem_1789.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/week10/Problem_1937.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/week10/Problem_1939.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/week10/Problem_2110.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/week10/Problem_2805.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/week11/Problem_17297.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/week11/Problem_1780.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/week11/Problem_2225.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/week12/Problem_4485.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/week4/Problem_1107.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/week4/Problem_1149.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/week4/Problem_13549.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/week4/Problem_14502.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/week4/Problem_16236.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/week4/Problem_17143.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/week4/Problem_18353.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/week4/Problem_18513.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/week4/Problem_1991.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/week4/Problem_2606.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/week4/Problem_2638.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/week4/Problem_3055.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/week5/Problem_1074.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/week5/Problem_11054.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/week5/Problem_14226.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/week5/Problem_2206.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/week5/Problem_2293.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/week5/Problem_3190.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/week5/Problem_9020.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/week6/Problem_11403.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/week6/Problem_11725.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/week6/Problem_14503.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/week6/Problem_1918.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/week6/Problem_2263.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/week6/Problem_9465.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/week7/Problem_1339.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/week7/Problem_14500.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/week7/Problem_1744.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/week7/Problem_18353.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/week7/Problem_1931.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/week7/Problem_2503.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/week8/Problem_11404.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/week8/Problem_1238.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/week8/Problem_1753.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/week8/Problem_1865.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/week8/Problem_2468.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/week8/Problem_7569.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/week9/Problem_1010.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/week9/Problem_10971.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/week9/Problem_11066.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/week9/Problem_1774.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/week9/Problem_1922.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/week9/Problem_4386.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BaekJoon_Sliver.iml" beforeDir="false" afterPath="$PROJECT_DIR$/BaekJoon.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Problem_1183.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Problem_1183.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Problem_17135.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Problem_17135.java" afterDir="false" />
+    </list>
+    <ignored path="$PROJECT_DIR$/out/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DefaultGradleProjectSettings">
+    <option name="isMigrated" value="true" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/week10/Problem_1012.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="200">
+              <caret line="14" column="14" selection-start-line="14" selection-start-column="14" selection-end-line="14" selection-end-column="14" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/week10/Problem_1937.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="500">
+              <caret line="28" column="31" selection-start-line="28" selection-start-column="31" selection-end-line="28" selection-end-column="31" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/week10/Problem_1789.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="360">
+              <caret line="20" column="26" selection-start-line="20" selection-start-column="26" selection-end-line="20" selection-end-column="26" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/week12/Problem_4485.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="372">
+              <caret line="62" column="29" selection-start-line="62" selection-start-column="29" selection-end-line="62" selection-end-column="29" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="e#638#639#0" expanded="true" />
+                <element signature="e#677#678#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Kotlin File" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/src/week4/Problem_17143.java" />
+        <option value="$PROJECT_DIR$/src/week4/Problem_18353.java" />
+        <option value="$PROJECT_DIR$/src/week5/Problem_1074.java" />
+        <option value="$PROJECT_DIR$/src/week5/Problem_9020.java" />
+        <option value="$PROJECT_DIR$/src/week5/Problem_2293.java" />
+        <option value="$PROJECT_DIR$/src/week4/Problem_1107.java" />
+        <option value="$PROJECT_DIR$/src/week4/Problem_16236.java" />
+        <option value="$PROJECT_DIR$/src/week5/Problem_2206.java" />
+        <option value="$PROJECT_DIR$/src/week5/Problem_14226.java" />
+        <option value="$PROJECT_DIR$/src/week5/Problem_3190.java" />
+        <option value="$PROJECT_DIR$/src/week5/Problem_11054.java" />
+        <option value="$PROJECT_DIR$/src/week6/Problem_9465.java" />
+        <option value="$PROJECT_DIR$/src/week6/Problem_11725.java" />
+        <option value="$PROJECT_DIR$/src/week6/Problem_11403.java" />
+        <option value="$PROJECT_DIR$/src/week6/Problem_14503.java" />
+        <option value="$PROJECT_DIR$/src/week6/Problem_2263.java" />
+        <option value="$PROJECT_DIR$/src/week6/Problem_2263.kt" />
+        <option value="$PROJECT_DIR$/src/week6/Problem_1918.java" />
+        <option value="$PROJECT_DIR$/src/week7/Problem_1931.java" />
+        <option value="$PROJECT_DIR$/src/week7/Problem.java" />
+        <option value="$PROJECT_DIR$/src/week7/Problem_14500.java" />
+        <option value="$PROJECT_DIR$/src/week7/Problem_2503.java" />
+        <option value="$PROJECT_DIR$/src/week7/Problem_1744.java" />
+        <option value="$PROJECT_DIR$/src/week7/Problem_1339.java" />
+        <option value="$PROJECT_DIR$/src/week7/Problem_18353.java" />
+        <option value="$PROJECT_DIR$/src/week8/Problem_1753.java" />
+        <option value="$PROJECT_DIR$/src/week8/Problem_1865.java" />
+        <option value="$PROJECT_DIR$/src/week8/Problem_2468.java" />
+        <option value="$PROJECT_DIR$/src/week8/Problem_7569.java" />
+        <option value="$PROJECT_DIR$/src/week8/Problem_11404.java" />
+        <option value="$PROJECT_DIR$/src/week8/Problem_1238.java" />
+        <option value="$PROJECT_DIR$/src/week9/Problem_1922.java" />
+        <option value="$PROJECT_DIR$/src/week9/Problem_1010.java" />
+        <option value="$PROJECT_DIR$/src/week9/Problem_1774.java" />
+        <option value="$PROJECT_DIR$/src/week9/Problem_4386.java" />
+        <option value="$PROJECT_DIR$/src/week9/Problem_11066.java" />
+        <option value="$PROJECT_DIR$/src/week9/Problem_10971.java" />
+        <option value="$PROJECT_DIR$/src/week10/Problem_1012.java" />
+        <option value="$PROJECT_DIR$/src/week10/Problem_10971.java" />
+        <option value="$PROJECT_DIR$/src/week10/Problem_1789.java" />
+        <option value="$PROJECT_DIR$/src/week10/Problem_1937.java" />
+        <option value="$PROJECT_DIR$/src/week10/Problem_2110.java" />
+        <option value="$PROJECT_DIR$/src/week10/Problem_1939.java" />
+        <option value="$PROJECT_DIR$/src/week10/Problem_2805.java" />
+        <option value="$PROJECT_DIR$/src/week10/Problem_1107.java" />
+        <option value="$PROJECT_DIR$/src/week10/Problem_1389.java" />
+        <option value="$PROJECT_DIR$/src/week10/Problem_1463.java" />
+        <option value="$PROJECT_DIR$/src/week11/Problem_1780.java" />
+        <option value="$PROJECT_DIR$/src/week11/Problem_2225.java" />
+        <option value="$PROJECT_DIR$/src/week11/Problem_17297.java" />
+        <option value="$PROJECT_DIR$/src/week12/Problem_4485.java" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenProjectNavigator">
+    <treeState>
+      <expand />
+      <select />
+    </treeState>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="-11" />
+    <option name="y" value="-11" />
+    <option name="width" value="1943" />
+    <option name="height" value="1100" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <flattenPackages ProjectPane="false" />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="BaekJoon" type="b2602c69:ProjectViewProjectNode" />
+              <item name="BaekJoon" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="BaekJoon" type="b2602c69:ProjectViewProjectNode" />
+              <item name="BaekJoon" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="BaekJoon" type="b2602c69:ProjectViewProjectNode" />
+              <item name="BaekJoon" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="week12" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+      <pane id="PackagesPane" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../SW_A_type_Problems" />
+    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Application.Problem_4485">
+    <configuration name="Problem_1463" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="week10.Problem_1463" />
+      <module name="BaekJoon" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="week10.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Problem_17297" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="week11.Problem_17297" />
+      <module name="BaekJoon" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="week11.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Problem_1780" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="week11.Problem_1780" />
+      <module name="BaekJoon" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="week11.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Problem_2225" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="week11.Problem_2225" />
+      <module name="BaekJoon" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="week11.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Problem_4485" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="week12.Problem_4485" />
+      <module name="BaekJoon" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="week12.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Problem_4485" />
+        <item itemvalue="Application.Problem_17297" />
+        <item itemvalue="Application.Problem_2225" />
+        <item itemvalue="Application.Problem_1780" />
+        <item itemvalue="Application.Problem_1463" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="51a2036a-9ff2-47af-ad7e-c98efe176838" name="Default Changelist" comment="" />
+      <created>1603530207058</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1603530207058</updated>
+    </task>
+    <task id="LOCAL-00001" summary="백준 1,2주차">
+      <created>1607783787393</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1607783787393</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
+    <servers />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info id="Structure" order="0" side_tool="true" weight="0.25" />
+      <window_info id="Image Layers" order="1" />
+      <window_info id="Designer" order="2" />
+      <window_info id="UI Designer" order="3" />
+      <window_info id="Capture Tool" order="4" />
+      <window_info id="Favorites" order="5" side_tool="true" />
+      <window_info content_ui="combo" id="Project" order="6" visible="true" weight="0.14285715" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.27006507" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.3991323" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Terminal" order="7" weight="0.329718" />
+      <window_info anchor="bottom" id="Event Log" order="8" side_tool="true" weight="0.32907802" />
+      <window_info anchor="bottom" id="Version Control" order="9" />
+      <window_info anchor="bottom" id="Messages" order="10" weight="0.3275488" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="1" weight="0.25" />
+      <window_info anchor="right" id="Palette" order="2" />
+      <window_info anchor="right" id="Theme Preview" order="3" />
+      <window_info anchor="right" id="Capture Analysis" order="4" />
+      <window_info anchor="right" id="Palette&#9;" order="5" />
+      <window_info anchor="right" id="Maven" order="6" weight="0.32995737" />
+      <window_info anchor="right" id="Ant Build" order="7" weight="0.25" />
+    </layout>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="백준 1,2주차" />
+    <option name="LAST_COMMIT_MESSAGE" value="백준 1,2주차" />
+  </component>
+  <component name="antWorkspaceConfiguration">
+    <option name="IS_AUTOSCROLL_TO_SOURCE" value="false" />
+    <option name="FILTER_TARGETS" value="false" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/week4/Problem_1149.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="14" column="37" lean-forward="true" selection-start-line="14" selection-start-column="37" selection-end-line="14" selection-end-column="37" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/week5/Problem_3190.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="9" column="54" selection-start-line="9" selection-start-column="54" selection-end-line="9" selection-end-column="54" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/week4/Problem_13549.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="220">
+          <caret line="15" column="23" selection-start-line="15" selection-start-column="23" selection-end-line="15" selection-end-column="23" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/week5/Problem_2206.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="300">
+          <caret line="19" column="46" selection-start-line="19" selection-start-column="46" selection-end-line="19" selection-end-column="46" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/week6/Problem_2263.kt" />
+    <entry file="file://$PROJECT_DIR$/src/week7/Problem_1931.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="540">
+          <caret line="27" column="33" selection-start-line="27" selection-start-column="33" selection-end-line="27" selection-end-column="33" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Problem_1181.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="40">
+          <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Problem_1002.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="12" selection-start-line="12" selection-end-line="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/week7/P.java" />
+    <entry file="file://$PROJECT_DIR$/BaekJoon.iml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/week7/Problem.java" />
+    <entry file="file://$PROJECT_DIR$/src/week6/Problem_9465.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="14" column="43" selection-start-line="14" selection-start-column="43" selection-end-line="14" selection-end-column="43" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/week6/Problem_11403.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="560">
+          <caret line="30" column="39" selection-start-line="30" selection-start-column="39" selection-end-line="30" selection-end-column="39" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/week6/Problem_14503.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="140">
+          <caret line="9" column="44" selection-start-line="9" selection-start-column="44" selection-end-line="9" selection-end-column="44" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/week6/Problem_11725.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="100">
+          <caret line="8" selection-start-line="8" selection-end-line="8" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/week6/Problem_2263.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="313">
+          <caret line="20" column="35" selection-start-line="20" selection-start-column="35" selection-end-line="20" selection-end-column="35" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/week6/Problem_1918.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="140">
+          <caret line="7" column="27" lean-forward="true" selection-start-line="7" selection-start-column="27" selection-end-line="7" selection-end-column="27" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/week5/Problem_14226.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="440">
+          <caret line="22" column="29" selection-start-line="22" selection-start-column="29" selection-end-line="22" selection-end-column="29" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#456#457#0" expanded="true" />
+            <element signature="e#505#506#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/week7/Problem_2503.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="600">
+          <caret line="30" column="18" lean-forward="true" selection-start-line="30" selection-start-column="18" selection-end-line="30" selection-end-column="18" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/week7/Problem_14500.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="320">
+          <caret line="16" column="37" selection-start-line="16" selection-start-column="37" selection-end-line="16" selection-end-column="37" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/week7/Problem_1744.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="140">
+          <caret line="10" column="7" selection-start-line="10" selection-start-column="7" selection-end-line="10" selection-end-column="7" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/week7/Problem_1339.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="160">
+          <caret line="9" column="27" lean-forward="true" selection-start-line="9" selection-start-column="27" selection-end-line="9" selection-end-column="27" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Problem_1753.java" />
+    <entry file="file://$PROJECT_DIR$/src/week8/Problem_7569.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="260">
+          <caret line="13" column="50" lean-forward="true" selection-start-line="13" selection-start-column="50" selection-end-line="13" selection-end-column="50" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/week8/Problem_2468.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="260">
+          <caret line="13" column="32" selection-start-line="13" selection-start-column="32" selection-end-line="13" selection-end-column="32" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/week8/Problem_1865.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="300">
+          <caret line="17" column="41" selection-start-line="17" selection-start-column="41" selection-end-line="17" selection-end-column="41" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/week8/Problem_11404.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="20">
+          <caret line="16" column="43" selection-start-line="16" selection-start-column="43" selection-end-line="16" selection-end-column="43" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/week8/Problem_1753.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="600">
+          <caret line="35" column="53" selection-start-line="35" selection-start-column="53" selection-end-line="35" selection-end-column="53" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/week8/Problem_1238.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="880">
+          <caret line="52" column="47" selection-start-line="52" selection-start-column="47" selection-end-line="52" selection-end-column="47" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/week9/Problem_1922.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="40">
+          <caret line="2" selection-start-line="2" selection-end-line="73" selection-end-column="1" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/week9/Problem_1010.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="260">
+          <caret line="16" column="37" selection-start-line="16" selection-start-column="37" selection-end-line="16" selection-end-column="37" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/week9/Problem_1774.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1180">
+          <caret line="63" column="45" selection-start-line="63" selection-start-column="45" selection-end-line="63" selection-end-column="45" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/week9/Problem_4386.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="460">
+          <caret line="27" column="17" selection-start-line="27" selection-start-column="17" selection-end-line="27" selection-end-column="17" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/week9/Problem_11066.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="300">
+          <caret line="15" column="71" selection-start-line="15" selection-start-column="71" selection-end-line="15" selection-end-column="71" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/week5/Problem_11054.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="80">
+          <caret line="6" column="23" selection-start-line="6" selection-start-column="23" selection-end-line="6" selection-end-column="23" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/week7/Problem_18353.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="200">
+          <caret line="13" column="46" selection-start-line="13" selection-start-column="46" selection-end-line="13" selection-end-column="46" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/week9/Problem_10971.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="533">
+          <caret line="33" column="54" selection-start-line="33" selection-start-column="54" selection-end-line="33" selection-end-column="54" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/week10/Problem_10971.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="260">
+          <caret line="13" column="52" selection-start-line="13" selection-start-column="52" selection-end-line="13" selection-end-column="52" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/week10/Problem_1107.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="160">
+          <caret line="8" column="49" selection-start-line="8" selection-start-column="49" selection-end-line="8" selection-end-column="49" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/week10/Problem_2805.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="6" selection-start-line="6" selection-end-line="6" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/week10/Problem_1939.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="20">
+          <caret line="12" column="30" selection-start-line="12" selection-start-column="30" selection-end-line="12" selection-end-column="30" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/week10/Problem_2110.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="80">
+          <caret line="19" column="9" selection-start-line="19" selection-start-column="9" selection-end-line="19" selection-end-column="9" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/week10/Problem_1012.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="200">
+          <caret line="14" column="14" selection-start-line="14" selection-start-column="14" selection-end-line="14" selection-end-column="14" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/week10/Problem_1937.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="500">
+          <caret line="28" column="31" selection-start-line="28" selection-start-column="31" selection-end-line="28" selection-end-column="31" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/week10/Problem_1789.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="360">
+          <caret line="20" column="26" selection-start-line="20" selection-start-column="26" selection-end-line="20" selection-end-column="26" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/week10/Problem_1389.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="820">
+          <caret line="45" column="17" selection-start-line="45" selection-start-column="17" selection-end-line="45" selection-end-column="17" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/week10/Problem_1463.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="10" column="16" selection-start-line="10" selection-start-column="16" selection-end-line="10" selection-end-column="16" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/week11/Problem_1780.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="220">
+          <caret line="13" selection-start-line="13" selection-end-line="13" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/week11/Problem_2225.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="440">
+          <caret line="24" column="37" selection-start-line="24" selection-start-column="37" selection-end-line="24" selection-end-column="37" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/week11/Problem_17297.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="320">
+          <caret line="19" column="23" selection-start-line="19" selection-start-column="23" selection-end-line="19" selection-end-column="23" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/week12/Problem_4485.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="372">
+          <caret line="62" column="29" selection-start-line="62" selection-start-column="29" selection-end-line="62" selection-end-column="29" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#638#639#0" expanded="true" />
+            <element signature="e#677#678#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>

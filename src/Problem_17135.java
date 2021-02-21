@@ -3,7 +3,7 @@ import java.io.IOException;
 import java.io.InputStreamReader;
 import java.util.LinkedList;
 import java.util.Queue;
-
+// 17135 캐슬 디펜스
 public class Problem_17135 {
     private static int max, N, M, D;
     private static int[] dir_x = {-1, 0, 1};
@@ -41,6 +41,7 @@ public class Problem_17135 {
             }
         }
     }
+    //궁수를 배치할 수 있는 모든 경우의 수에서 없앨 수 있는 적의 수를 갱신
     private static void arrange_Archer(int x1, int x2, int x3){
         int H = N;
         int val = 0;
@@ -79,7 +80,7 @@ public class Problem_17135 {
             String[] line = bf.readLine().split(" ");
             for(int j = 0 ; j < M ; j ++) board[i][j] = Integer.parseInt(line[j]);
         }
-        arrange_Archer(0, 2, 4);
+        arrange_Archer(0, 1, 2);
         System.out.println(max);
     }
 }
